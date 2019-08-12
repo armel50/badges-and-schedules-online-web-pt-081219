@@ -16,4 +16,5 @@ def assign_rooms(speakers_list)
     list_of_room << "Hello, #{speaker}! You'll be assigned to room #{speakers_list.index(speaker)}"
     
   end
+  list_of_room
 end
